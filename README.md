@@ -4,14 +4,17 @@ Este repositório reúne desafios, projetos e experimentos desenvolvidos durante
 
 O objetivo é registrar minha evolução na utilização de IA, praticando a criação de instruções claras e bem estruturadas para obter respostas mais precisas e úteis.
 
-Ao longo dos desafios, são explorados conceitos como:
+## O que Aprendi
 
-- Criação de prompts claros e objetivos;
-- Utilização de contexto e exemplos para obter respostas mais precisas;
-- Estruturação de instruções para orientar a IA ao resultado desejado;
-- Identificação de informações inconsistentes ou duvidosas geradas pela IA;
-- Aplicação prática de Inteligência Artificial para resolver problemas reais;
-- Desenvolvimento de soluções utilizando IA Generativa.
+Durante as aulas introdutórias para o bootcamp, tive a oportunidade de aprender conceitos fundamentais sobre o uso da Inteligência Artificial, incluindo:
+
+- Como escrever prompts mais claros e eficazes;
+- A importância de fornecer contexto e instruções específicas;
+- Como orientar uma IA para gerar respostas mais alinhadas ao objetivo desejado;
+- Como identificar possíveis inconsistências ou informações duvidosas nas respostas geradas;
+- Como aplicar IA na criação de soluções para problemas do dia a dia.
+
+Esses conhecimentos serviram como base para o desenvolvimento dos desafios presentes neste repositório e para os próximos projetos que serão realizados durante o bootcamp.
 
 ## Desafios
 
